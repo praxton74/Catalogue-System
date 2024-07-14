@@ -1,0 +1,17 @@
+.container{
+    position: absolute;
+    top: 10%;
+    left: 23%;
+    width: 50%;
+  }
+    
+  .text{
+    text-transform: capitalize;
+    text-align: left;
+    width: 100%;
+  }
+    
+  .read-or-hide{
+    color: rgb(148, 148, 148);
+    cursor: pointer;
+  }
